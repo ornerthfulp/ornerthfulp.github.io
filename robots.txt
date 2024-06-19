@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ornerthfulp.github.io/sitemap
+Sitemap: https://ornerthfulp.github.io/app/sitemap
+Sitemap: https://ornerthfulp.github.io/assets/sitemap
+Sitemap: https://ornerthfulp.github.io/css/sitemap
+Sitemap: https://ornerthfulp.github.io/includes/sitemap
+Sitemap: https://ornerthfulp.github.io/item/sitemap
+Sitemap: https://ornerthfulp.github.io/src/sitemap
